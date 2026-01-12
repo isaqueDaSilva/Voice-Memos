@@ -29,8 +29,8 @@ Voice Memos is a cross‑platform audio recording app focused on clarity and per
 
 ## Getting Started
 
-### 1. Clone the repository
-### 2. Build the app on your mac or iPhone
+- Clone the repository
+- Build the app on your mac or iPhone
 
 ## Demo
 *_Comming soon_*

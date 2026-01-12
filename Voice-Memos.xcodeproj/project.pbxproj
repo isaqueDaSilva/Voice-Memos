@@ -6,8 +6,15 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		7EE0ED1E2F14B77F003F4479 /* LICENCE in Resources */ = {isa = PBXBuildFile; fileRef = 7EE0ED072F14B77F003F4479 /* LICENCE */; };
+		7EE0ED1F2F14B77F003F4479 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7EE0ED082F14B77F003F4479 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		7E33294F2F0B440C00503C16 /* Voice-Memos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Voice-Memos.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7EE0ED072F14B77F003F4479 /* LICENCE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENCE; sourceTree = "<group>"; };
+		7EE0ED082F14B77F003F4479 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -47,6 +54,8 @@
 			children = (
 				7E3329512F0B440C00503C16 /* Voice-Memos */,
 				7E3329502F0B440C00503C16 /* Products */,
+				7EE0ED072F14B77F003F4479 /* LICENCE */,
+				7EE0ED082F14B77F003F4479 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -122,6 +131,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7EE0ED1E2F14B77F003F4479 /* LICENCE in Resources */,
+				7EE0ED1F2F14B77F003F4479 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
