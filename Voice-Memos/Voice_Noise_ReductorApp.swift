@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct Voice_Noise_ReductorApp: App {
+    @State private var audioController = AudioController.shared
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
+                .environment(audioController)
         }
     }
 }
