@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct Voice_MemosApp: App {
+    @State private var audioController = AudioController.shared
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
+                .environment(audioController)
         }
     }
 }
