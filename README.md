@@ -1,9 +1,9 @@
 # 🎙️ Voice Memos — Signal Processing on Apple Platforms
 
-[![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg?style=flat&logo=swift)](https://developer.apple.com/swift/)
+[![Swift](https://img.shields.io/badge/Swift-6.2+-orange.svg?style=flat&logo=swift)](https://developer.apple.com/swift/)
 [![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-blue.svg?style=flat&logo=swift)](https://developer.apple.com/xcode/swiftui/)
 [![Framework](https://img.shields.io/badge/Framework-AVFoundation-red.svg?style=flat&logo=apple)](https://developer.apple.com/documentation/avfoundation/)
-[![Platform](https://img.shields.io/badge/Platform-iOS%2016.0%2B%20%7C%20macOS%2013.0%2B-lightgrey.svg?style=flat&logo=apple)](https://developer.apple.com/apple-build-system/)
+[![Platform](https://img.shields.io/badge/Platform-iOS%2018.0%2B%20%7C%20macOS%2015.0%2B-lightgrey.svg?style=flat&logo=apple)](https://developer.apple.com/apple-build-system/)
 
 **Voice Memos** is a hands-on learning project focused on **building native iOS and macOS applications** alongside the practical study of **Digital Signal Processing (DSP)**.
 
