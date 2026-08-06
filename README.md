@@ -53,7 +53,7 @@ The project will continue to be expanded in phases as signal processing concepts
 
 1. Clone this repository:
 ```bash
-   git clone [https://github.com/your-username/VoiceMemos.git](https://github.com/your-username/VoiceMemos.git)
+   git clone [https://github.com/your-username/VoiceMemos.git](https://github.com/isaqueDaSilva/Voice-Memos.git)
 ```
 2. Open the .xcodeproj file in Xcode (26.0+ recommended).
 3. Select your target device:
