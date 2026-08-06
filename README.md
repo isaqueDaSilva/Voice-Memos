@@ -25,7 +25,7 @@ In this first stage, the primary focus was establishing native audio recording a
 ## 🛠️ Technologies & Frameworks
 
 * **[Swift](https://developer.apple.com/swift/):** Primary programming language used throughout the project.
-* **[SwiftUI](https://developer.apple.com/xcode/swiftui/):** Declarative framework used for building reactive user interfaces and custom visual components (such as the real-time bar graph).
+* **[SwiftUI](https://developer.apple.com/swiftui/):** Declarative framework used for building reactive user interfaces and custom visual components (such as the real-time bar graph).
 * **[AVFoundation](https://developer.apple.com/documentation/avfoundation/):** Essential Apple framework for audio capture, hardware management, and raw audio level monitoring (`AVAudioRecorder`, channel metering, and power levels).
 
 ---
@@ -53,7 +53,7 @@ The project will continue to be expanded in phases as signal processing concepts
 
 1. Clone this repository:
 ```bash
-   git clone [https://github.com/your-username/VoiceMemos.git](https://github.com/isaqueDaSilva/Voice-Memos.git)
+   git clone https://github.com/isaqueDaSilva/Voice-Memos.git
 ```
 2. Open the .xcodeproj file in Xcode (26.0+ recommended).
 3. Select your target device:
